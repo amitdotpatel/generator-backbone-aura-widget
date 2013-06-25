@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.js" afterPath="$PROJECT_DIR$/app/index.js" />
     </list>
     <ignored path="generator-backbone-aura-widget.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -13,8 +13,9 @@
     <file path="$PROJECT_DIR$/../runsheet/app/widgets/lease-results/models/LeaseDetails.js" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372139937137" ignored="false" />
     <file path="/_view.js" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372140159280" ignored="false" />
     <file path="/index.js" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372147591330" ignored="false" />
-    <file path="$PROJECT_DIR$/../runsheet/installation.sh" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372148005461" ignored="false" />
+    <file path="$PROJECT_DIR$/../runsheet/installation.sh" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372148696522" ignored="false" />
     <file path="/installation.sh" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372145015320" ignored="false" />
+    <file path="$PROJECT_DIR$/../runsheet/app/app.js" changelist="9be760a2-b8e3-4ab0-bc26-997fd7c0f555" time="1372148658969" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="4" selection-start="951" selection-end="951" vertical-scroll-proportion="0.6666667">
+            <state line="47" column="55" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.5833333">
               <folding />
             </state>
           </provider>
@@ -395,7 +396,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="4" selection-start="951" selection-end="951" vertical-scroll-proportion="0.6666667">
+        <state line="47" column="55" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.5833333">
           <folding />
         </state>
       </provider>

@@ -46,10 +46,10 @@ WidgetGenerator.prototype.app = function app() {
 
     this.copy('_config.js', this.widgetFullyQualifiedPath + '/config.js');
     this.copy('_main.js', this.widgetFullyQualifiedPath + '/main.js');
-    this.copy('_collection.js',this.widgetFullyQualifiedPath + '/collections/'+toCapitalize(this.widgetName)+'Collection');
-    this.copy('_model.js',this.widgetFullyQualifiedPath + '/models/'+toCapitalize(this.widgetName));
+    this.copy('_collection.js',this.widgetFullyQualifiedPath + '/collections/'+toCapitalize(this.widgetName)+'Collection.js');
+    this.copy('_model.js',this.widgetFullyQualifiedPath + '/models/'+toCapitalize(this.widgetName) + ".js");
     this.copy('_style.scss',this.widgetFullyQualifiedPath + '/sass/style.scss');
-    this.copy('_view.js',this.widgetFullyQualifiedPath + '/views/'+toCapitalize(this.widgetName)+'View');
+    this.copy('_view.js',this.widgetFullyQualifiedPath + '/views/'+toCapitalize(this.widgetName)+'View.js');
 };
 
 WidgetGenerator.prototype.projectfiles = function projectfiles() {
