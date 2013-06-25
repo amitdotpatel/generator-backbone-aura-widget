@@ -1,0 +1,25 @@
+/**
+ * Your Comments will go here.
+ *
+ * @class <%= _.capitalize(widgetName) %>
+ * @constructor initialize
+ */
+
+define(['sandbox'], function (sandbox) {
+
+    var <%= _.capitalize(widgetName) %> = sandbox.mvc.Model({
+        model: RunsheetModel,
+        initialize: function (options) {
+		var self = this;
+        	this.render();    
+        },
+	url: function () {
+            
+        },
+        parse: function (results) {
+            return results;
+        }
+    });
+
+    return <%= _.capitalize(widgetName) %>;
+});
