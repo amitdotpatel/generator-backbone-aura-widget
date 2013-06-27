@@ -1,7 +1,0 @@
-/**
- * The config file for RUNSHEET-TABLE widget
- *
- * @class config
- */
-define({
-});
